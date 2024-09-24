@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/pmprado/hello-world/commit/ac06cb49083581ee5d27fb1db4cf3f4a5b25d495\"><strong>a</strong>c06cb49083581ee5d27fb1db4cf3f4a5b25d495</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/pmprado/pmprado/commit/ab208574836bc53aa91d4df13dfba473ec006e77\"><strong>ab</strong>208574836bc53aa91d4df13dfba473ec006e77</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"eapi\".",
+    "body": "My favorite commit message words are:\n\n1. eapi (used 5 times)\n2. on (used 4 times)\n3. avd-anta (used 4 times)\n4. version (used 4 times)\n5. mention (used 4 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pmprado/avd/commit/afeac9227d2e29929e68e46b04d5fd5ecfae7fac\">afeac92</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
